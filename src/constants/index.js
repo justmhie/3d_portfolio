@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, chatgenie, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -111,16 +111,16 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
-        iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        title: "Web Developer Intern",
+        company_name: "Chatgenie",
+        icon: chatgenie,
+        iconBg: "#000000",
+        date: "June 2024 - July 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Developed and maintained web applications using Ruby on Rails for backend and PostgreSQL for database management.",
+            "Designed and implemented RESTful APIs and GraphQL schemas, enabling efficient data querying and real-time features.",
+            "Built dynamic, user-friendly interfaces with Vue.js, ensuring seamless integration with backend services.",
+            "Deployed and managed applications on Render, automating deployment pipelines and optimizing performance.",
         ],
     },
     {

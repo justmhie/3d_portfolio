@@ -1,3 +1,4 @@
+import chatgenie from './chatgenie.png'
 import hero from './hero.jpg'
 import meta from './meta.png'
 import shopify from './shopify.png'
@@ -6,6 +7,7 @@ import tesla from './tesla.png'
 import logo from './logo.svg'
 
 export {
+    chatgenie,
     hero,
     meta,
     shopify,

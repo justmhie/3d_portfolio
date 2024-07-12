@@ -103,7 +103,7 @@ const Contact = () => {
               type='email'
               name='email'
               className='input'
-              placeholder='John@gmail.com'
+              placeholder='john@gmail.com'
               required
               value={form.email}
               onChange={handleChange}
